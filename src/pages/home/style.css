@@ -1,0 +1,9 @@
+.ant-modal-content {
+  padding: 0px !important;
+}
+.ant-modal-body {
+  height: 100%;
+}
+.ant-modal-footer {
+  height: 0;
+}
